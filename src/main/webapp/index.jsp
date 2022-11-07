@@ -11,7 +11,7 @@
     <title>Devsecops Demo Lab</title>
 
 
-    <!-- Custom styles for this template -->
+    <!-- Custom style for this template -->
     <link href="jumbotron.css" rel="stylesheet">
 
     <!-- HTML5 shim and Re and media queries -->
